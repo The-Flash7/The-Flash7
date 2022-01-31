@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @The-Flash7
+- 👀 I’m interested in ...Data Science and Machine Learning
+- 🌱 I’m currently learning ...Data Science and Machine Learning
+- 💞️ I’m looking to collaborate on ...all the new idea/projects Data Science and Machine Learning
+- 📫 How to reach me ...
